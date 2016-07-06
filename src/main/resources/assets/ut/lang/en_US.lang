@@ -1,0 +1,121 @@
+item.resin.name=Resin
+tile.resin_log.name=Resin Wood
+tile.resin_leaves.name= Resin Leaves
+item.engine.name=Engine
+item.chainsaw.name=Chainsaw
+item.bucketherm.name=Bucket of Hermetic Material
+item.coalpowder.name=Coal Powder
+item.steelingot.name=Steel Ingot
+item.steelaxe.name=Steel Axe
+item.steelsword.name=Steel Sword
+item.steelshovel.name=Steel Shovel
+item.steelpickaxe.name=Steel Pickaxe
+tile.platecrafter.name=Plate Crafter
+tile.road.name=Road
+tile.Mroad.name=Road Marking
+item.golden_egg.name=Golden Egg
+tile.scaffolding.name=Scaffolding
+item.bottleherm.name=Hermetic Bottle
+item.vegetal_stick.name=Vegetal Stick
+item.polished_lapislazuli.name=Polished Lapis-Lazuil
+tile.dragon_scale_ore.name=Dragon Scale Ore
+tile.steel_block.name=Steel Block
+item.LapisShovel.name=Lapis Shovel
+item.LapisSword.name=Lapis Sword
+item.LapisPickaxe.name=Lapis Pickaxe
+item.LapisAxe.name=Lapis Axe
+item.SuperBadassAdminTool.name=Super Badass Admin Tool
+item.ender_soul.name=Ender Soul
+item.ender_gem.name=Ender Gem
+item.dragon_scale.name=Dragon Scale
+item.dragon_gem.name=Dragon Gem
+item.dragon_pickaxe.name=Dragon Pickaxe
+item.dragon_sword.name=Dragon Sword
+item.dragon_axe.name=Dragon Axe
+item.dragon_shovel.name=Dragon Shovel
+item.dragon_hoe.name=Dragon Hoe
+item.steel_helmet.name=Steel Helmet
+item.steel_chestplate.name=Steel Chestplate
+item.steel_leggings.name=Steel Leggins
+item.steel_boots.name=Steel Boots
+item.lapis_helmet.name=Lapis Helmet
+item.lapis_chestplate.name=Lapis Chestplate
+item.lapis_leggings.name=Lapis Leggins
+item.lapis_boots.name=Lapis Boots
+tile.crusher.name=Crusher
+tile.clinker.name=Clinker
+tile.limestone.name=Limestone
+item.epic_admin_chestplate.name=Fucking Epic Admin Chestplate
+item.wooden_bladed_bow.name=Wooden Bladed Bow
+item.stone_bladed_bow.name=Stone Bladed Bow
+item.iron_bladed_bow.name=Iron Bladed Bow
+item.golden_bladed_bow.name=Golden Bladed Bow
+item.diamond_bladed_bow.name=Diamond Bladed Bow
+item.air_bottle.name=Air Bottle
+item.lava_bottle.name=Lava Bottle
+item.weedkiller.name=Weedkiller
+item.redstone_igniter.name=Redstone Igniter
+item.scaph_helmet.name=Diving Suit Helmet
+item.motorized_chestplate.name=Motorized Chestpalte
+item.airbag_leggings.name=AirBag Leggings
+item.scaph_boots.name=Diving Suit Boots
+item.propeller.name=Propeller
+item.motorized_boat.name=Motorized Boat
+item.reinforced_boat.name=Reinforced Boat
+item.steel_boat.name=Steel Boat
+item.golden_powder.name=Golden Powder
+item.iron_plate.name=Iron Plate
+item.steel_plate.name=Steel Plate
+item.glided_dragon_axe.name=Glided Dragon Axe
+item.glided_dragon_pickaxe.name=Glided Dragon Pickaxe
+item.glided_dragon_hoe.name=Glided Dragon Hoe
+item.glided_dragon_shovel.name=Glided Dragon Shovel
+item.glided_dragon_sword.name=Glided Dragon Sword
+item.dragon_helmet.name=Dragon Helmet
+item.dragon_chestplate.name=Dragon Chestplate
+item.dragon_leggings.name=Dragon Leggings
+item.dragon_boots.name=Dragon Boots
+item.rare_ancient_sword.name=Ancient Sword
+item.ancient_sword.name=Ancient Sword
+item.ancient_shard.name=Ancient Shard
+
+
+
+
+
+
+
+
+
+
+ut.keyDesAirbag=Activate Airbags
+ut.crusher=Crusher
+
+
+
+container.plateCrafter=Plate Crafter
+container.crusher=Crusher
+
+
+
+
+
+
+
+
+entity.goldenEggChicken.name=Golden Egg Chicken
+entity.motorizedBoat.name=Motorized Boat
+
+
+
+
+
+
+
+
+
+
+
+
+
+itemGroup.UTTab=Eryah's Mods - UsefulThings

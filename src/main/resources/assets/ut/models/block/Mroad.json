@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ut:blocks/Mroad",
+        "front": "ut:blocks/road",
+        "side": "ut:blocks/Mroad"
+    }
+}

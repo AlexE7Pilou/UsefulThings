@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "ut:blocks/crusher_bot",
+        "down": "ut:blocks/crusher_bot",
+        "up": "ut:blocks/crusher_top_on",
+        "north": "ut:blocks/crusher_front_on",
+        "south": "ut:blocks/crusher_side",
+        "east": "ut:blocks/crusher_side",
+        "west": "ut:blocks/crusher_side"
+    }
+}

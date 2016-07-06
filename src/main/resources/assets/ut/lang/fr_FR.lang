@@ -1,0 +1,120 @@
+item.resin.name=Resine
+tile.resin_log.name=Buche à resine
+tile.resin_leaves.name=Feuilles a resine
+item.engine.name=Moteur
+item.chainsaw.name=Tronconneuse
+item.bucketherm.name=Seau de matiere hermetique
+item.coalpowder.name=Poudre de charbon
+item.steelingot.name=Lingot d'acier
+item.steelaxe.name=Hache en acier
+item.steelsword.name=Epee en acier
+item.steelshovel.name=Pelle en acier
+item.steelpickaxe.name=Pioche en acier
+tile.platecrafter.name=Fabrique de plaques
+tile.road.name=Route
+tile.Mroad.name=Marquage de Route
+item.golden_egg.name=Oeuf en or
+tile.scaffolding.name=Echaffaudage
+item.bottleherm.name=Bouteille Hermetique
+item.vegetal_stick.name=Baton Vegetal
+item.polished_lapislazuli.name=Lapis Lazuli Poli
+tile.dragon_scale_ore.name=Minerai d'Ecaille de dragon
+tile.steel_block.name=Bloc d'acier
+item.LapisShvoel.name=Pelle en Lapis
+item.LapisSword.name=Epee en Lapis
+item.LapisPickaxe.name=Pioche en Lapis
+item.LapisAxe.name=Hache en Lapis
+item.SuperBadassAdminTool.name=Super Badass Admin Tool
+item.ender_soul.name=Ame du neant
+item.ender_gem.name=Gemme du neant
+item.dragon_scale.name=Ecaille de Dragon
+item.dragon_gem.name=Gemme Draconique
+item.dragon_pickaxe.name=Pioche Draconique
+item.dragon_sword.name=Epee Draconique
+item.dragon_axe.name=Hache Draconique
+item.dragon_shovel.name=Pelle Draconique
+item.dragon_hoe.name=Houe Draconique
+item.steel_helmet.name=Casque en Acier
+item.steel_chestplate.name=Plastron en Acier
+item.steel_leggings.name=Jambieres en Acier
+item.steel_boots.name=Bottes en Acier
+item.lapis_helmet.name=Casque en Lapis
+item.lapis_chestplate.name=Plastron en Lapis
+item.lapis_leggings.name=Jambieres en Lapis
+item.lapis_boots.name=Bottes en Lapis
+tile.crusher.name=Broyeur
+tile.clinker.name=Mâchefer
+tile.limestone.name=Calcaire
+item.epic_admin_chestplate.name=Fucking Epic Admin Chestplate
+item.wooden_bladed_bow.name=Arc a lame en bois
+item.stone_bladed_bow.name=Arc a lame en pierre
+item.iron_bladed_bow.name=Arc a lame en fer
+item.golden_bladed_bow.name=Arc a lame en or
+item.diamond_bladed_bow.name=Arc a lame en diamant
+item.air_bottle.name=Bouteille d'air
+item.lava_bottle.name=Bouteille de lave
+item.weedkiller.name=Desherbant
+item.redstone_igniter.name=Activateur Redstone
+item.scaph_helmet.name=Scaphandre
+item.motorized_chestplate.name=Plastron Motorisé
+item.airbag_leggings.name=Jambières airbag
+item.scaph_boots.name=Bottes de Scaphandre
+item.propeller.name=Helice
+item.motorized_boat.name=Bateau Motorisé
+item.reinforced_boat.name=Bateau Renforcé
+item.steel_boat.name=Bateau Thermoristant
+item.golden_powder.name=Poudre dorée
+item.iron_plate.name=Plaque de fer
+item.steel_plate.name=Plaque d'acier
+item.glided_dragon_axe.name=Hache Draconique Dorée
+item.glided_dragon_pickaxe.name=Pioche Draconique Dorée
+item.glided_dragon_hoe.name=Houe Draconique Dorée
+item.glided_dragon_shovel.name=Pelle Draconique Dorée
+item.glided_dragon_sword.name=Epee Draconique Dorée
+item.dragon_helmet.name=Casque Draconique
+item.dragon_chestplate.name=Plastron Draconique
+item.dragon_leggings.name=Jambieres Draconiques
+item.dragon_boots.name=Bottes Draconiques
+item.rare_ancient_sword.name=Epée Antique
+item.ancient_sword.name=Epée Antique
+item.ancient_shard.name=Eclat Antique
+
+
+
+
+
+
+
+ut.keyDesAirbag=Activer les airbags
+
+
+
+container.plateCrafter=Fabrique de plaques
+container.crusher=Broyeur
+
+
+
+
+
+
+
+
+entity.goldenEggChicken.name=Poule aux oeufs d'or
+entity.motorizedBoat.name=Bateau motorisé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+itemGroup.UTTab=Eryah's Mods - UsefulThings

@@ -1,0 +1,23 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "cross": "ut:blocks/gunpowder_cross",
+        "line": "ut:blocks/gunpowder_line",
+    },
+    "elements": [
+        {   "from": [ 5, 0.25, 0 ],
+            "to": [ 16, 0.25, 16 ],
+            "shade": false,
+            "faces": {
+                "up":    { "uv": [ 5, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 5, 0.25, 0 ],
+            "to": [ 16, 0.25, 16 ],
+            "shade": false,
+            "faces": {
+                "up":    { "uv": [ 5, 0, 16, 16 ], "texture": "#cross" }
+            }
+        }
+    ]
+}

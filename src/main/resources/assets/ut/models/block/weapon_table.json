@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ut:blocks/weapon_table_top",
+        "bot": "ut:blocks/steel_block",
+        "side": "ut:blocks/weapon_table_side",
+        "front": "ut:blocks/weapon_table_front"
+    }
+}

@@ -1,0 +1,9 @@
+/bin/
+.*
+!.gitignore
+!.travis.yml
+*.zip
+*.class
+/build/
+/Releases/
+/eclipse/

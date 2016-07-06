@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ut",
+  "name": "Useful Things",
+  "description": "Eryah's Mods - USEFUL THINGS
+  Eryah - Main Modder - Ideas
+  robin4002 - Modding Help
+  SCAREX - Modding Help
+  EmotionalFox - Modding Help
+  Aylii - AlphaTester",
+  "version": "Beta 1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eryah","Minecraft Forge France"],
+  "credits": "Eryah - Main Modder",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

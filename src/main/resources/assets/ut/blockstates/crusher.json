@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "ut:crusher" },
+        "facing=south": { "model": "ut:crusher", "y": 180 },
+        "facing=west":  { "model": "ut:crusher", "y": 270 },
+        "facing=east":  { "model": "ut:crusher", "y": 90 }
+    }
+}
